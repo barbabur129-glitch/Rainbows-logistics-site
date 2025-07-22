@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: rainbows-logistics-site
+    env: static
+    staticPublishPath: .
